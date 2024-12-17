@@ -29,6 +29,12 @@ ollama run qwen2.5:7b
 
 ## Spring AI工程构建
 
+### 下载工程代码
+
+```bash
+git clone https://github.com/qufeipeng/spring-ai-ollama.git
+```
+
 ### 工程结构
 
 ```bash
